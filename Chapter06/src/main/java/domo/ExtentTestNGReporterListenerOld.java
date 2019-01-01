@@ -1,4 +1,4 @@
-package com.tester.extend.domo;
+package domo;
 
 public class ExtentTestNGReporterListenerOld {
 
